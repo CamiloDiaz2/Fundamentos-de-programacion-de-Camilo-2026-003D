@@ -31,3 +31,6 @@ Conectar mi repo local con mi repo en la nube.
 
 git remote -v
 Este comando muestra
+
+Cómo cambiarse y crear una rama nueva:
+git checkout -b main
