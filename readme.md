@@ -34,3 +34,6 @@ Este comando muestra
 
 Cómo cambiarse y crear una rama nueva:
 git checkout -b main
+
+git push origin main
+Sube los archivos al Github.
