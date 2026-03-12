@@ -62,3 +62,6 @@ Crea una nueva rama.
 
 git checkout nombreRama
 Cambia a la rama del nombre especificado.
+
+git clone https://github.com/CamiloDiaz2/Fundamentos-de-programacion-de-Camilo-2026-003D
+Clona todos los archivos del repositorio indicado.
