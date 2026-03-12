@@ -53,3 +53,12 @@ Revierte los cambios del archivo.
 
 git checkout -- .
 Revierte los cambios de TODOS los archivos.
+
+git branch
+Muestra todas las ramas del repositorio.
+
+git branch nombreRama
+Crea una nueva rama.
+
+git checkout nombreRama
+Cambia a la rama del nombre especificado.
