@@ -45,6 +45,8 @@ Actualizar el archivo:
 2) git commit -m "Mensaje"
 3) git push origin main
 
+git log
+Muestra el historial de los commits.
 
 git checkout -- nombreArchivo.ext
 Revierte los cambios del archivo.
