@@ -44,3 +44,10 @@ Actualizar el archivo:
 1) git add .
 2) git commit -m "Mensaje"
 3) git push origin main
+
+
+git checkout -- nombreArchivo.ext
+Revierte los cambios del archivo.
+
+git checkout -- .
+Revierte los cambios de TODOS los archivos.
